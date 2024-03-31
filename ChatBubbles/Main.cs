@@ -376,7 +376,7 @@ namespace ChatBubbles
 
                 foreach (var cd in _charDatas.Where(cd => actorId == cd.ActorId))
                 {
-                    if (bubble->State == BalloonState.Inactive && _switch && !Svc.clientState.IsPvP)
+                    if (bubble->State == BalloonState.Inactive && _switch) // && !Svc.clientState.IsPvP) fucking bitch ass pvp toggle
                     {
 
                         //Get the slot that will turn into the bubble

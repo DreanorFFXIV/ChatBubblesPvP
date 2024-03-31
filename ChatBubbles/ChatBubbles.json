@@ -1,11 +1,11 @@
 {
-    "Author": "Haplo064, Khayle",
-    "Name": "Chat Bubbles",
+    "Author": "Haplo064, Khayle, Dreanor",
+    "Name": "Chat Bubbles PvP",
     "Punchline": "Enables in-game chat bubbles.",
     "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
-    "InternalName": "ChatBubbles",
+    "InternalName": "ChatBubblesPvP",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Haplo064/ChatBubbles",
+    "RepoUrl": "https://github.com/DreanorFFXIV/ChatBubblesPvP",
     "IconUrl": "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/icon.png",
     "ImageUrls": ["https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image1.png", "https://raw.githubusercontent.com/Haplo064/ChatBubbles/main/ChatBubbles/images/image2.png"],
     "Tags": [
